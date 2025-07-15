@@ -1,9 +1,9 @@
-# Hi, I’m Trung Tien Dong 👋
+# Hi, I’m Trung 
 
 ![Profile Picture](./maxxie.avif)
 
-I’m passionate about computer vision, adversarial machine learning, and autonomous systems.
+I’m crazy about computer vision and autonomous systems.
 
-![Profile views](https://komarev.com/ghpvc/?username=DongTrung28&color=blue)
-
-Feel free to explore my projects and get in touch!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DongTrung28&color=blue" alt="Profile views"/>
+</p>
