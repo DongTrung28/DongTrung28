@@ -1,6 +1,6 @@
 # Hi, I’m Trung Tien Dong 👋
 
-![Profile Picture](./profile.jpg)
+![Profile Picture](./maxxie.avif)
 
 I’m passionate about computer vision, adversarial machine learning, and autonomous systems.
 
