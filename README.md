@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Trung 😜</h1>
-<p align="center">I’m crazy about 3D computer vision and autonomous systems 🤖</p>
+<p align="center">I’m crazy about 3D computer vision and autonomous systems  🤖</p>
 <p align="center">I am currently learning Multi View Geometry 🗺️🚗</p>
 
 <p align="center">
