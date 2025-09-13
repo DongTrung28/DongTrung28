@@ -11,8 +11,4 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=DongTrung28&layout=compact&theme=tokyonight" 
     alt="Most Used Languages" 
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DongTrung28&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats" 
-  />
 </p>
